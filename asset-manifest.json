@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jeremykissack-react-donut-viewer/static/css/main.19e573a9.css",
+    "main.js": "/jeremykissack-react-donut-viewer/static/js/main.b2eb8e68.js",
+    "index.html": "/jeremykissack-react-donut-viewer/index.html",
+    "main.19e573a9.css.map": "/jeremykissack-react-donut-viewer/static/css/main.19e573a9.css.map",
+    "main.b2eb8e68.js.map": "/jeremykissack-react-donut-viewer/static/js/main.b2eb8e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e573a9.css",
+    "static/js/main.b2eb8e68.js"
+  ]
+}
